@@ -26,7 +26,7 @@ class GridCustom extends StatelessWidget {
                       decoration:  BoxDecoration(
                         borderRadius: BorderRadius.circular(5),
                         image: const DecorationImage(fit:BoxFit.fill,
-                            image:NetworkImage("https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/w-qjCHPZbeXCQ-unsplash.jpg"))
+                            image:NetworkImage("https://images.unsplash.com/photo-1681256172482-ae5740706fe6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3NHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"))
                       ),
                     ),
                     const Text(
